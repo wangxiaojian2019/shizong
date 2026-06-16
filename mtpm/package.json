@@ -1,0 +1,13 @@
+{
+  "name": "uni-app",
+  "version": "1.0.0",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.92.1",
+    "sass-loader": "^16.0.5"
+  },
+  "dependencies": {
+    "mp-html": "^2.5.1",
+    "uview-ui": "^1.8.8"
+  }
+}

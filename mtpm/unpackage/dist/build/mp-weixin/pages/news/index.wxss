@@ -1,0 +1,1 @@
+page{font-family:仿宋}.flex{display:flex;justify-content:space-between;flex-wrap:wrap}.box{width:47%;margin-top:20px}.one-line{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.color{color:#a71f24}.title{font-size:18px;width:85%;padding:15px 5rpx 5px 5rpx;font-weight:700}.adddate{color:#999;padding:0 5rpx}

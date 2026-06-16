@@ -1,0 +1,75 @@
+
+page {
+	background-color: #ffffff;
+}
+.w-full {
+	width: 100%;
+}
+.m-auto {
+	margin: 0 auto;
+}
+.maxh {
+	max-height: 100%;
+}
+.overflow-hidden {
+	overflow: hidden;
+}
+.relative {
+	position: relative;
+}
+.flex {
+	display: flex;
+}
+.justify-between {
+	justify-content: space-between;
+}
+.mt-15 {
+	margin-top: 15px;
+}
+.mt-25 {
+	margin-top: 25px;
+}
+.mt-35 {
+	margin-top: 35px;
+}
+.cardBox {
+	background-color: #f7f7f7;
+	width: 48%;
+	border-radius: 10rpx;
+}
+.border-top {
+	border-top: 2px solid #f7f7f7;
+	padding: 20px 10px;
+}
+.border-bottom {
+	border-bottom: 2px solid #f7f7f7;
+}
+.w-30 {
+	width: 30%;
+}
+.w-68 {
+	width: 68%;
+}
+.middle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+}
+.submit {
+	position: fixed;
+	bottom: 0;
+	left: 0px;
+	right: 0px;
+	background-color: #ffffff;
+	border-top: 2px solid #f7f7f7;
+}
+.realNameBtn {
+	background-color: #a71f24;
+	line-height: 60px;
+	border-radius: 10px;
+	text-align: center;
+	color: #ffffff;
+}
+

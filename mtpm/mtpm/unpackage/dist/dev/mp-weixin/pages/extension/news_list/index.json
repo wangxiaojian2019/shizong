@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "卖家指南",
+  "usingComponents": {
+    "home": "/components/home/index"
+  }
+}

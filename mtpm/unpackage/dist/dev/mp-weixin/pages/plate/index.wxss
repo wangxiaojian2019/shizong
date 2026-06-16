@@ -1,0 +1,31 @@
+
+.flex {
+	display: flex;
+}
+.justify-between {
+	justify-content: space-between
+}
+.mt-10 {
+	margin-top: 10px;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.ml-15 {
+	margin-left: 15px;
+}
+.relative {
+	position: relative;
+	width: 19%;
+}
+.status {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	font-size: 14px;
+	width: 100%;
+	text-align: right;
+}
+

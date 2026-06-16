@@ -1,0 +1,29 @@
+
+page{
+	font-family: '仿宋';
+}
+.flex{
+	display: flex;justify-content: space-between;flex-wrap: wrap;
+}
+.box{
+	width: 47%;margin-top: 20px;
+}
+.one-line {
+    white-space: nowrap; /* 强制文本不换行 */
+    overflow: hidden;    /* 隐藏超出部分 */
+    text-overflow: ellipsis; /* 超出部分显示为省略号 */
+}
+.color{
+	color: #a71f24
+}
+.title{
+	font-size: 18px;
+	width: 85%;
+	padding: 15px 5rpx 5px 5rpx;
+	font-weight: bold;
+}
+.adddate{
+	color: #999999;
+	padding: 0 5rpx;
+}
+

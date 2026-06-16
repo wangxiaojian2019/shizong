@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/WaterfallsFlow/WaterfallsFlowItem"],{"20db":function(e,t,n){"use strict";n.r(t);var a=n("fa41"),o=n.n(a);for(var i in a)["default"].indexOf(i)<0&&function(e){n.d(t,e,(function(){return a[e]}))}(i);t["default"]=o.a},"7dfa":function(e,t,n){"use strict";var a=n("91ae"),o=n.n(a);o.a},"91ae":function(e,t,n){},9296:function(e,t,n){"use strict";n.d(t,"b",(function(){return o})),n.d(t,"c",(function(){return i})),n.d(t,"a",(function(){return a}));var a={easyLoadimage:function(){return n.e("components/easy-loadimage/easy-loadimage").then(n.bind(null,"a8c0"))}},o=function(){var e=this.$createElement,t=(this._self._c,Number(this.item.vip_price));this.$mp.data=Object.assign({},{$root:{m0:t}})},i=[]},fa41:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;n("8f59");var a=n("fbaa"),o={components:{easyLoadimage:function(){n.e("components/easy-loadimage/easy-loadimage").then(function(){return resolve(n("a8c0"))}.bind(null,n)).catch(n.oe)}},props:{item:{type:Object,require:!0},type:{type:Number,default:0},recommend:{type:Boolean,default:!1},goDetail:{type:String,default:""}},data:function(){return{domain:a.HTTP_REQUEST_URL}},methods:{addCartChange:function(){this.$eventHub.$emit("onCartAddChange",this.item)}}};t.default=o},ffedd:function(e,t,n){"use strict";n.r(t);var a=n("9296"),o=n("20db");for(var i in o)["default"].indexOf(i)<0&&function(e){n.d(t,e,(function(){return o[e]}))}(i);n("7dfa");var u=n("828b"),r=Object(u["a"])(o["default"],a["b"],a["c"],!1,null,"1dfc1897",null,!1,a["a"],void 0);t["default"]=r.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/WaterfallsFlow/WaterfallsFlowItem-create-component',
+    {
+        'components/WaterfallsFlow/WaterfallsFlowItem-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("ffedd"))
+        })
+    },
+    [['components/WaterfallsFlow/WaterfallsFlowItem-create-component']]
+]);
